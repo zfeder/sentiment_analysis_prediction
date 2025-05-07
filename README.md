@@ -1,7 +1,7 @@
 
 # 📊 Sentiment Analysis on Twitter Data
 
-This repository contains the code, data, and report for a sentiment analysis project. The goal is to classify tweets as either **Positive** or **Negative** using a machine learning model based on textual features.
+I propose a possible approach to sentiment analysis (positive or negative) of tweets, using classification techniques. The solution consists of extracting information from the tweet corpus and using data about the user, date and other specific characteristics to classify the text. The goal is to classify tweets as either **Positive** or **Negative** using a machine learning model based on textual features.
 
 ## 📁 Project Structure
 
